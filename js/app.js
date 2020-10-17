@@ -29,7 +29,15 @@
       quote:
         "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
       author: " Tyne Daly"
-    }
+    },
+    {quote :
+    "No one is to blame for your future situation but yourself. If you want to be successful, then become “Successful."
+     ,
+     author : "Jaymin Shah"
+    },
+    {quote : "Work hard in silence, let your success be the noise.”",
+     author: "Unknown"
+      }
   ];
 
   const btn = document.getElementById("generate-btn");
