@@ -35,7 +35,7 @@
      ,
      author : "Jaymin Shah"
     },
-    {quote : "Work hard in silence, let your success be the noise.”",
+    {quote : "Work hard in silence, let your success be the noise",
      author: "Unknown"
       }
   ];
