@@ -37,7 +37,11 @@
     },
     {quote : "Work hard in silence, let your success be the noise",
      author: "Unknown"
-      }
+      },
+{
+quote : "Great things never come from comfort zones",
+author: "Unknown"
+}
   ];
 
   const btn = document.getElementById("generate-btn");
